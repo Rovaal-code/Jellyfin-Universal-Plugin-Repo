@@ -123,6 +123,7 @@ https://raw.githubusercontent.com/queukat/YummyKodik/gh-pages/manifest.json | qu
 https://raw.githubusercontent.com/rdpharr/jellyfin-plugin-localrecs/main/manifest.json | https://github.com/rdpharr/jellyfin-plugin-localrecs | *.*
 https://raw.githubusercontent.com/retrorat1/Jellyfin.Plugin.TheSportsDB/main/manifest.json | https://github.com/retrorat1/Jellyfin.Plugin.TheSportsDB | *.*
 https://raw.githubusercontent.com/RomainPierre7/jellyfin-plugin-TelegramNotifier/main/manifest.json | https://github.com/RomainPierre7/jellyfin-plugin-TelegramNotifier | *.*
+https://raw.githubusercontent.com/Rovaal-code/JellyNotify/main/repository/manifest.json | https://github.com/Rovaal-code/JellyNotify | *.*
 https://raw.githubusercontent.com/ryandash/jellyfin-plugin-myanimelist/main/manifest.json | https://github.com/ryandash/jellyfin-plugin-myanimelist | *.*
 https://raw.githubusercontent.com/Saturn745/jellyfin-favorited-songs-playlist/refs/heads/master/manifest.json | https://github.com/Saturn745/jellyfin-favorited-songs-playlist | *.*
 https://raw.githubusercontent.com/SenorSmartyPants/jellyfin-plugin-refreshsparse/master/manifest.json | https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse | 10.8,10.9,10.10,10.11
